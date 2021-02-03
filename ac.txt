@@ -1,0 +1,10 @@
+hdsfgds
+gf
+gfd
+
+
+
+a* ={ a,aa,aaaa,aaa,aaaaaa...........}
+ab*= {ab,abb,abbb,abbbbbb......}
+(ab)*={ab,abab,ababab,abababab......}
+a*b*={a^nb^n}
